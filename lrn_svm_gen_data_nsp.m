@@ -1,6 +1,6 @@
 clear;
 close all;
-clc;
+clc
 % Code for optimal Linear Classifier with separable patterns
 % Generate Data
 nD=2;
